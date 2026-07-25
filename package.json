@@ -16,6 +16,6 @@
     "body-parser": "^1.20.6",
     "jest": "^30.4.2",
     "json-server": "^0.17.4",
-    "jsonwebtoken": "^9.0.0"
+    "jsonwebtoken": "^9.0.3"
   }
 }
